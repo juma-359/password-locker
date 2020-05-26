@@ -1,7 +1,7 @@
 import unittest # importing the unittest module
 from user import User
 from credential import credentials
-# import pyperclip
+
 """
 unittest.TestCase: TestCase class that helps in creating test cases
 """

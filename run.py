@@ -2,7 +2,6 @@
 #!/bin/python3.6
 from user import User
 import random
-# import pyperclip
 def create_user(p_name,u_name,ps):
     '''
     function to create a new user
